@@ -1,5 +1,6 @@
 # money-converter-KZT-to-USD
 money converter KZT to USD
+
 **A cli tool to get latest KZT (tenge) exchange rates**
 
 ## Installation
