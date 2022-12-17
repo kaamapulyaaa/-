@@ -1,5 +1,11 @@
 Инструмент для получения последних обменных курсов KZT (тенге)
 
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url]  [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![NodeICO][nodeico-image]][nodeico-url]
+
+<img width="500" alt="kzt demo" src="demo.gif"/>
+
 ## Installation
 
 ``` bash
@@ -21,3 +27,16 @@ Examples:
   kzt -a -c USD   display exchange rates to USD from all sources
   kzt -c USD EUR  display average exchange rates to USD and EUR
 ```
+
+[downloads-image]: https://img.shields.io/npm/dm/kzt.svg
+[npm-url]: https://www.npmjs.com/package/kzt
+[npm-image]: https://img.shields.io/npm/v/kzt.svg
+
+[travis-url]: https://travis-ci.org/yenbekbay/kzt
+[travis-image]: https://img.shields.io/travis/yenbekbay/kzt.svg
+
+[daviddm-image]: https://david-dm.org/yenbekbay/kzt.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/yenbekbay/kzt
+
+[nodeico-url]: https://nodei.co/npm/kzt
+[nodeico-image]: https://nodei.co/npm/kzt.png?downloads=true&downloadRank=true
