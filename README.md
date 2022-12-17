@@ -1,7 +1,5 @@
 # money-converter-KZT-to-USD
-money converter KZT to USD
-
-**A cli tool to get latest KZT (tenge) exchange rates**
+Инструмент для получения последних обменных курсов KZT (тенге)
 
 ## Installation
 
@@ -24,3 +22,4 @@ Examples:
   kzt -a -c USD   display exchange rates to USD from all sources
   kzt -c USD EUR  display average exchange rates to USD and EUR
 ```
+
