@@ -1,11 +1,5 @@
 Инструмент для получения последних обменных курсов KZT (тенге)
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url]  [![Dependency Status][daviddm-image]][daviddm-url]
-
-[![NodeICO][nodeico-image]][nodeico-url]
-
-<img width="500" alt="kzt demo" src="demo.gif"/>
-
 ## Installation
 
 ``` bash
